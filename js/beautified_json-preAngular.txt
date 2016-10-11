@@ -1,0 +1,80 @@
+[
+	{
+		"title": "Fishing boats",
+		"image_name": "boats.jpg",
+		"description": "Cras ultrices dignissim ligula, quis dignissim nunc dapibus eu",
+		"is_published": true
+	},
+	{
+		"title": "Dragonfruit",
+		"image_name": "dragonfruit.jpg",
+		"description": "We visited the Golden Gate Bridge and admired it like we we're simply tourists.",
+		"is_published": true
+	},
+	{
+		"title": "Secluded Cove",
+		"image_name": "cove.jpg",
+		"description": "Suspendisse aliquam nunc tortor, consectetur sollicitudin sapien sodales non husap ien sodales non huidk edinwoskushidk edinwoskusho pashku husap ien sodales non huidk edinwoskushidk edinwoskusho pashku hu icitudin sapien sodales non husap ien sodales non huidk edinwoskushidk edinwoskusho pashku husap ien sodales non huidk edinwoskushidk edinwoskusho pashku hu sap ien sodales non huidk edinwoskushidk edinwoskusho pashku shi sapier soficceion sit amet, consectetur a.",
+		"is_published": true
+	},
+	{
+		"title": "Tropical Butterflies",
+		"image_name": "butterflies.jpg",
+		"description": "Nulla sapien eros, consectetur nec odio quis, tristique pretium lorem.",
+		"is_published": true
+	},
+	{
+		"title": "Tropical Fish",
+		"image_name": "fish.jpg",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum commodo enim, id ullamcorper diam iaculis lobortis.",
+		"is_published": true
+	},
+	{
+		"title": "papaya",
+		"image_name": "papaya.jpg",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum commodo enim, id ullamcorper diam iaculis lobortis.",
+		"is_published": true
+	},
+	{
+		"title": "Orchid and Bromeliad",
+		"image_name": "orchid.jpg",
+		"description": "In ac ante vestibulum, pharetra est in, molestie odio. Aenean laoreet lobortis tempus.",
+		"is_published": true
+	},
+	{
+		"title": "parrot",
+		"image_name": "parrot.jpg",
+		"description": "Curabitur luctus tortor nunc, vitae volutpat mauris scelerisque in.",
+		"is_published": true
+	},
+	{
+		"title": "Error",
+		"image_name": "error.jpg",
+		"description": "Morbi commodo neque nisi, lacinia rhoncus justo gravida id.",
+		"is_published": false
+	},
+	{
+		"title": "Tropical Sunset",
+		"image_name": "sunset.jpg",
+		"description": "Morbi commodo neque nisi, lacinia rhoncus justo gravida id.",
+		"is_published": true
+	},
+	{
+		"title": "Toucan",
+		"image_name": "toucan.jpg",
+		"description": "Donec at ligula mattis, vestibulum enim ac, elementum metus.",
+		"is_published": true
+	},
+	{
+		"title": "Orchids on a wall",
+		"image_name": "wall_flower.jpg",
+		"description": " Phasellus mattis sodales ante eget egestas. Sed sed vestibulum sem.",
+		"is_published": true
+	},
+	{
+		"title": "waterfall sorounded by purple flowers",
+		"image_name": "waterfall.jpg",
+		"description": " Phasellus mattis sodales ante eget egestas. Sed sed vestibulum sem.",
+		"is_published": true
+	}
+]

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+	<meta charset="utf-8" />
+	<title>Angular Image Gallery</title>
+	<script src="lib/angular.min.js"></script>
+	<!-- <script src="lib/angular-route.min.js"></script> -->
+	<script src="lib/angular-animate.min.js"></script>
+	<!-- <script src="js/app.js"></script> -->
+	<script src="js/controllers.js"></script>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<aside class="leftSidebar">
+		<img src="images/pacific-logo.svg" alt="Pacific Imagery logo" width="120px">
+		<ul>
+			<li class="leftSidebar__btn leftSidebar--explore"><i class="material-icons">explore</i>Explore</li>
+			<li class="leftSidebar__btn leftSidebar--folder"><i class="material-icons">folder</i>Collections</li>
+			<li class="leftSidebar__btn leftSidebar--download"><i class="material-icons">cloud_download</i>Download</li>
+		</ul>
+	</aside>
+	<main id="mainContent">
+		<section class="topBanner">
+			<h3>Explore Our Content</h3>
+			<h1>Tropical Imagery</h1>
+		</section> <!-- Top Banner -->
+		<section class="assets" ng-controller = "GalleryController">
+<!--			<div class="sortingOptions">
+				<label class="formgroup">
+				<input type="radio" ng-model="direction" name="direction" checked>
+				ascending
+				</label>
+				<label class="formgroup">	
+					<input type="radio" ng-model="direction" name="direction" value="reverse">
+					descending
+				</label> 
+			</div> -->
+			<ul class="gallery">
+				<li ng-animate="'animate'" class="gallery cf" ng-repeat="item in gallery">
+					<img ng-src="images/{{ item.fileName }}" alt="Photo of {{ item.title }}">
+					<div class="galleryInfo">
+						<h2>{{ item.title }}</h2>
+						<h3>{{ item.fileName }}</h3>
+						<p>{{ item.description }}</p>
+					</div>
+					<div>
+						<p><i class="material-icons fav">favorite</i><i class="material-icons grade">grade</i></p>
+					</div>
+				</li>
+			</ul>
+		</section> <!-- assets -->
+	</main>	
+</body>
+</html>

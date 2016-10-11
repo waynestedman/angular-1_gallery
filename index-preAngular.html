@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+
+<head>
+	<meta charset="utf-8" />
+	<title>WebDAM Front End Engineer Test</title>
+	<script src="js/angular.min.js"></script>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<aside class="leftSidebar">
+		<img src="images/pacific-logo.svg" alt="Pacific Imagery logo" width="80">
+		<ul>
+			<li class="leftSidebar__btn leftSidebar--explore"><i class="material-icons">explore</i>Explore</li>
+			<li class="leftSidebar__btn leftSidebar--folder"><i class="material-icons">folder</i>Folder</li>
+			<li class="leftSidebar__btn leftSidebar--upload"><i class="material-icons">cloud_upload</i>Upload</li>
+		</ul>
+	</aside>
+	<main id="mainContent">
+		<section class="topBanner">
+			<h3>Explore Your Digital Content</h3>
+			<h1>Assets</h1>
+		</section>
+		<section class="assets">
+			<div id="sortIcon"><button class="material-icons">sort_by_alpha</button></div>
+			<div id="imageContent"></div>
+		</section>
+	</main>
+	<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+body {
+	font-family: 'Helvetica', san-serif;
+	margin: 0;
+}
+
+.leftSidebar {
+	background-color: #aaa;
+	font-size: 14px;
+	font-weight: bold;
+	color: #e4e4e4;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+}
+
+.leftSidebar img {
+	margin: 6px 20px;
+}
+
+.leftSidebar ul {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+	list-style-type: none;
+
+}
+.leftSidebar__btn {
+	padding: 20px 8px;
+	margin: 0 auto 3px auto;
+	text-align: center;
+	background-color: #333;
+}
+
+.material-icons {
+	margin-left: 6px;
+	margin-right: 4px;
+	vertical-align: middle;
+}
+
+.leftSidebar--explore {
+	border-right: 3px solid #4e9ad3
+}
+
+.leftSidebar--folder {
+	border-right: 3px solid #f631ef
+}
+
+.leftSidebar--upload {
+	border-right: 3px solid #ff9400;
+}
+
+#mainContent {
+	margin: 0 0 0 120px;
+}
+
+#mainContent .topBanner {
+	color: #403f3f;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	background-image: url("../images/banner.jpg");
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: cover;
+   height: 170px;
+   width: 100%;
+}
+
+.topBanner h1 {
+	font-size: 60px;
+	font-weight: bold;
+	margin: 0 0 0 20px;
+}
+
+.topBanner h3 {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0 0 -8px 0;
+	padding: 60px 0 0 20px;
+}
+
+#sortIcon {
+	width: 100%;
+	height: 24px;
+	margin-top: 4px;
+	margin-bottom: 12px;
+}
+
+#sortIcon button {
+	float: right;
+	border: none;
+	background: none;
+	cursor: pointer;
+	margin: 2px 4px 0 0;
+}
+
+.assets #boxContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-content: stretch;
+	justify-content: space-between;
+	list-style-type: none; 
+	color: #403f3f;
+}
+
+.box {
+	flex: 1 0 auto;
+	border: 1px dotted #bbb;
+	display: inline-block;
+	width: 356px;
+	text-align: center;
+	padding: 0 0 20px 0;
+	margin: 0 10px 20px 10px;
+}
+ .box img {
+ 	width: 100%;
+ }
+
+.box .box--text {
+	padding: 0 26px;
+}
+
+.box h4 {
+	text-transform: capitalize;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 2px;
+}
+
+.box h5 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #bbb;
+}
+
+.box p {
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 24px;
+	color: #bbb;
+	padding: 0 0 20px 0;
+}

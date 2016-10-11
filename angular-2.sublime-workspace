@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sort",
+				"sortedTitles"
+			],
+			[
+				"items",
+				"itemsArray"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"ilin",
+				"inline-block"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"the",
+				"the_field"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"light",
+				"light-gray"
+			],
+			[
+				"comm",
+				"commodore_cruises_events"
+			],
+			[
+				"wp",
+				"wp_enqueue_style"
+			],
+			[
+				"sass",
+				"sassStyle"
+			],
+			[
+				"_",
+				"_development"
+			],
+			[
+				"de",
+				"_development"
+			],
+			[
+				"php",
+				"phpSources"
+			],
+			[
+				"html",
+				"htmlSources"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"foo",
+				"footer-widgets"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"vmade",
+				"vmade_blue"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/PacWeb/htdocs/angular-2"
+	],
+	"file_history":
+	[
+		"/Users/PacWeb/htdocs/webdam/Front-End Test/script.js",
+		"/Users/PacWeb/htdocs/webdam/script-working-no-sort.js",
+		"/Users/PacWeb/htdocs/webdam/script-backup.js",
+		"/Users/PacWeb/htdocs/webdam/script-backup3.js",
+		"/Users/PacWeb/htdocs/webdam/script-backup2.js",
+		"/Users/PacWeb/htdocs/webdam/Front-End Test/index.html",
+		"/Users/PacWeb/htdocs/webdam/Front-End Test/style.css",
+		"/Users/PacWeb/htdocs/webdam/Front-End Test/data.json",
+		"/Users/PacWeb/Documents/Clients/AoA/Updated home page/index.html",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/header.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/page-home.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/page-event.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/page-about.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/page-faq.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/functions.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/media/_cards.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/footer.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/style.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/gulpfile.js",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_development/css/style.css.map",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/mixins/_mixins-master.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/navigation/_menus.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/layout/_no-sidebar.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_variables.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/site/primary/_footer.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/site/secondary/_widgets.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_typography.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/style.css",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/media/_expander.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/bourbon/settings/_px-to-em.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_archive/page-faq-022516.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/media/_media.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/js/main.js",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_base.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/page-info.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_grid-settings.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/site/primary/_header.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/css/style.css",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/media/_galleries.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_archive/gruntfile.js",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_archive/gulpfile-backup-021016.js",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_variables-backup.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_archive/SASS stuff/variables-site/_structure.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/navigation/_links.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/navigation/_navigation.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_lists.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/elements/_elements.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/forms/_fields.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/base/_forms.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/variables-site/_colors.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/typography/_typography.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/variables-site/_typography.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/typography/_headings.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/variables-site/_variables-site.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/variables-site/_structure.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass/_normalize.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/style.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/package.json",
+		"/Users/PacWeb/htdocs/Commodore-new/wp-includes/theme.php",
+		"/Users/PacWeb/htdocs/Commodore-new/.gitignore",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/Git notes.txt",
+		"/Users/PacWeb/htdocs/Commodore-new/README.md",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/layout/_no-sidebar.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/_htaccess/htaccess-backup",
+		"/Users/PacWeb/htdocs/Commodore-new/.htaccess",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/_htaccess/.htaccess",
+		"/Users/PacWeb/htdocs/Commodore-new/_mt/vm/.htaccess",
+		"/Users/PacWeb/htdocs/Commodore-new/_mt/.htaccess",
+		"/Users/PacWeb/htdocs/Commodore-new/htaccess-backup",
+		"/Users/PacWeb/Downloads/commodore_new.sql",
+		"/Users/PacWeb/htdocs/Vmade-SF-2/site-content/themes/vmadesf/single-listings.php",
+		"/Users/PacWeb/htdocs/Vmade-SF-2/site-content/themes/vmadesf/single-agents.php",
+		"/Users/PacWeb/htdocs/Vmade-SF-2/site-content/themes/vmadesf/page_commercial.php",
+		"/Users/PacWeb/htdocs/Vmade-SF-2/site-content/themes/vmadesf/page_agents.php",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/_for dev site/wp-config.php",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/_for dev site/wp-settings.php",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/_for dev site/functions.php",
+		"/Users/PacWeb/htdocs/Commodore-new/_notes/for dev site/functions.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/js/flexibility.js",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/media/_captions.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_header.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/variables-site/_typography.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/typography/font-awesome/_variables.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/typography/font-awesome/font-awesome.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/template-parts/content-page.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/typography/_typography.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/variables-site/_variables-site.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/navigation/_menus.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/typography/_headings.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/mixins/_mixins-master.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/typography/_headings.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_archive/header-original.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/functions.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/inc/custom-header.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/inc/customizer.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/footer.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/header.php",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/js/script.js",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/style.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_footer.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_header.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_posts-and-pages.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/secondary/_widgets.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/secondary/_widgets.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_posts-and-pages.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_comments.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_comments.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_asides.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_asides.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_infinite-scroll.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_infinite-scroll.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_clearings.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_clearings.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_alignments.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_alignments.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_accessibility.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_accessibility.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/variables-site/_structure.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/variables-site/_colors.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/variables-site/_colors.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/mixins/_mixins-master.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/media/_captions.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/media/_galleries.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/media/_galleries.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/media/_media.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/media/_media.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/forms/_buttons.scss",
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/forms/_buttons.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises",
+			"/Users/PacWeb/htdocs/Vmade-SF/site-content/themes/vmade_sf/sass",
+			"/Applications/MAMP/htdocs/PacWeb/wp-content/themes/smoothpost2",
+			"",
+			"/Users/PacWeb/Documents/Clients/Amber Regina/website/backups of staging site/090514 - partial/site files/wp-content",
+			"/Users/PacWeb/Documents/Clients/Amber Regina/website/backups of staging site/090514 - partial/site files/wp-content/themes/clipcart",
+			"/Users/PacWeb/Documents/Clients/Fiorella Ins/Reform Experts/backups/082814/site files/wp-content/plugins/gravityforms",
+			"/Users/PacWeb/Documents/Clients/Fiorella Ins/Reform Experts/backups/082814/site files",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cursor",
+			"font-size",
+			"$sizeValue",
+			".site-content",
+			"css",
+			"em",
+			"$comm-grey",
+			"$medium-gray",
+			"$medium-grey",
+			"$comm-grey",
+			"$font__main",
+			"$font_title",
+			"$font__main",
+			"$font__line-height-pre",
+			"$font__line-height-body",
+			"$color__text-main",
+			"$color__background-body",
+			"commodore-background.png",
+			"stylesheet",
+			"_development/",
+			"events",
+			"modernizr",
+			"html",
+			"h6",
+			"box-sizing",
+			"flex",
+			"%1$s",
+			"site-main",
+			"menu-toggle",
+			"h4",
+			"$default-border-radius",
+			"#linear-gradient",
+			"portfolio",
+			"site_title",
+			"header",
+			"genesis_header",
+			"header",
+			"Media Queries",
+			"widget",
+			"width",
+			"Layout",
+			".widget-area",
+			".title-area",
+			"5C9C4F",
+			" be_title_toggle",
+			" be_title_toggle_post_types",
+			"roboto",
+			"roboto slab",
+			"footer_genesis_link",
+			"66ab58",
+			"5a8552",
+			"3e7b7a\n3e7b7a\n3e7b7a\n3e7b7a\n5a8552",
+			"5d9d50",
+			"6ab05b",
+			"7bcc6b",
+			"portfolio",
+			".fa",
+			"portfolio",
+			":200",
+			"product_category",
+			"product category",
+			"product_category",
+			" $entry['38.4']",
+			"id: 2",
+			"enrollment",
+			"template_enroll_custom.php",
+			":99",
+			"site description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rem",
+			"$comm-gray",
+			"$heading-font-family",
+			"h2",
+			"4b9694",
+			"Jeunesse W01 Bold",
+			"53a7a5",
+			"3e7b7a",
+			"4b9694",
+			"53a7a5",
+			"4b9694",
+			".ic"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-2.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

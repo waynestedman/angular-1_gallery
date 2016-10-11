@@ -1,0 +1,67 @@
+[
+	{
+		"title": "Fishing boats",
+		"fileName": "boats.jpg",
+		"description": "Cras ultrices dignissim ligula, quis dignissim nunc dapibus eu"
+	},
+	{
+		"title": "Dragonfruit",
+		"imageName": "dragonfruit.jpg",
+		"description": "We visited the Golden Gate Bridge and admired it like we we're simply tourists."
+	},
+	{
+		"title": "Secluded Cove",
+		"fileName": "cove.jpg",
+		"description": "Suspendisse aliquam nunc tortor, consectetur sollicitudin sapien sodales non husap ien sodales non huidk edinwoskushidk edinwoskusho pashku husap ien sodales non huidk edinwoskushidk edinwoskusho pashku hu icitudin sapien sodales non husap ien sodales non huidk edinwoskushidk edinwoskusho pashku husap ien sodales non huidk edinwoskushidk edinwoskusho pashku hu sap ien sodales non huidk edinwoskushidk edinwoskusho pashku shi sapier soficceion sit amet, consectetur a."
+	},
+	{
+		"title": "Tropical Butterflies",
+		"fileName": "butterflies.jpg",
+		"description": "Nulla sapien eros, consectetur nec odio quis, tristique pretium lorem."
+	},
+	{
+		"title": "Tropical Fish",
+		"fileName": "fish.jpg",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum commodo enim, id ullamcorper diam iaculis lobortis."
+	},
+	{
+		"title": "papaya",
+		"fileName": "papaya.jpg",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum commodo enim, id ullamcorper diam iaculis lobortis."
+	},
+	{
+		"title": "Orchid and Bromeliad",
+		"fileName": "orchid.jpg",
+		"description": "In ac ante vestibulum, pharetra est in, molestie odio. Aenean laoreet lobortis tempus."
+	},
+	{
+		"title": "parrot",
+		"fileName": "parrot.jpg",
+		"description": "Curabitur luctus tortor nunc, vitae volutpat mauris scelerisque in."
+	},
+	{
+		"title": "Error",
+		"fileName": "error.jpg",
+		"description": "Morbi commodo neque nisi, lacinia rhoncus justo gravida id."
+	},
+	{
+		"title": "Tropical Sunset",
+		"fileName": "sunset.jpg",
+		"description": "Morbi commodo neque nisi, lacinia rhoncus justo gravida id."
+	},
+	{
+		"title": "Toucan",
+		"fileName": "toucan.jpg",
+		"description": "Donec at ligula mattis, vestibulum enim ac, elementum metus."
+	},
+	{
+		"title": "Orchids on a wall",
+		"fileName": "wall_flower.jpg",
+		"description": " Phasellus mattis sodales ante eget egestas. Sed sed vestibulum sem."
+	},
+	{
+		"title": "waterfall sorounded by purple flowers",
+		"fileName": "waterfall.jpg",
+		"description": " Phasellus mattis sodales ante eget egestas. Sed sed vestibulum sem."
+	}
+]
