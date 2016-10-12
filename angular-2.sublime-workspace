@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"galler",
+				"galleryOrder"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"m",
+				"myApp"
+			],
+			[
 				"sort",
 				"sortedTitles"
 			],
@@ -76,20 +104,12 @@
 				"text-align"
 			],
 			[
-				"margin",
-				"margin"
-			],
-			[
 				"list",
 				"list-style"
 			],
 			[
 				"col",
 				"color"
-			],
-			[
-				"font-",
-				"font-weight"
 			],
 			[
 				"tra",
@@ -106,10 +126,6 @@
 			[
 				"for",
 				"foreach\tforeach …"
-			],
-			[
-				"margin-",
-				"margin-left"
 			],
 			[
 				"te",
@@ -204,10 +220,11 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 1042,
+				"buffer_size": 6015,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -245,10 +262,35 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/PacWeb/htdocs/angular-2"
+		"/Users/PacWeb/htdocs/angular-2",
+		"/Users/PacWeb/htdocs/angular-2/css",
+		"/Users/PacWeb/htdocs/angular-2/js"
 	],
 	"file_history":
 	[
+		"/Users/PacWeb/htdocs/angular-2/index.html",
+		"/Users/PacWeb/htdocs/angular-2/css/style.css",
+		"/Users/PacWeb/htdocs/angular-2/js/controllers.js",
+		"/Users/PacWeb/htdocs/angular-2/js/beautified_json.txt",
+		"/Users/PacWeb/htdocs/angular-2/README.MD",
+		"/Users/PacWeb/htdocs/angular-2/.gitignore",
+		"/Users/PacWeb/htdocs/angular-2/for upload/angular-2/js/controllers.js",
+		"/Users/PacWeb/htdocs/angular-2/js/data.json",
+		"/Users/PacWeb/htdocs/angular-2/js/data-backup.json",
+		"/Users/PacWeb/htdocs/angular-2/js/script.js",
+		"/Users/PacWeb/htdocs/angular-2/js/beautified_json-backup.txt",
+		"/Users/PacWeb/htdocs/angular-2/index-preAngular.html",
+		"/Users/PacWeb/htdocs/angular-2/partials/list.html",
+		"/Users/PacWeb/htdocs/angular-2/partials/details.html",
+		"/Users/PacWeb/htdocs/angular-2/js/app.js",
+		"/Users/PacWeb/htdocs/angular-2/beautified_json.txt",
+		"/Users/PacWeb/htdocs/angular-2/beautified_json-preAngular.txt",
+		"/Users/PacWeb/htdocs/angular-2/js/controller.js",
+		"/Users/PacWeb/htdocs/angular-2/js/script-preAngular.js",
+		"/Users/PacWeb/htdocs/angular-2/data-preAngular.json",
+		"/Users/PacWeb/htdocs/angular-2/css/style-preAngular.css",
+		"/Users/PacWeb/htdocs/angular-2/data.json",
+		"/Users/PacWeb/htdocs/angular-2/style.css",
 		"/Users/PacWeb/htdocs/webdam/Front-End Test/script.js",
 		"/Users/PacWeb/htdocs/webdam/script-working-no-sort.js",
 		"/Users/PacWeb/htdocs/webdam/script-backup.js",
@@ -353,34 +395,11 @@
 		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_posts-and-pages.scss",
 		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/secondary/_widgets.scss",
 		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/secondary/_widgets.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_posts-and-pages.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_comments.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_comments.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/site/primary/_asides.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_asides.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_infinite-scroll.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_infinite-scroll.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_clearings.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_clearings.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_alignments.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_alignments.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/modules/_accessibility.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/modules/_accessibility.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/variables-site/_structure.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/variables-site/_colors.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/variables-site/_colors.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/mixins/_mixins-master.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/media/_captions.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/media/_galleries.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/media/_galleries.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/media/_media.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/media/_media.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass/forms/_buttons.scss",
-		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/forms/_buttons.scss"
+		"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/sass/site/primary/_posts-and-pages.scss"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -408,6 +427,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"artistlist",
 			"cursor",
 			"font-size",
 			"$sizeValue",
@@ -483,6 +503,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"gallery",
 			"rem",
 			"$comm-gray",
 			"$heading-font-family",
@@ -510,28 +531,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1042,
+						"buffer_size": 6015,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1905,
+								1905
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Sublime-CSS3/CSS3.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 869.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -579,7 +601,7 @@
 	"project": "angular-2.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 71.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -617,7 +639,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 301.0,
+	"side_bar_width": 223.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

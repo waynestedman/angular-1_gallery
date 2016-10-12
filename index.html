@@ -25,19 +25,27 @@
 			<h3>Explore Our Content</h3>
 			<h1>Tropical Imagery</h1>
 		</section> <!-- Top Banner -->
-		<section class="assets" ng-controller = "GalleryController">
-<!--			<div class="sortingOptions">
-				<label class="formgroup">
-				<input type="radio" ng-model="direction" name="direction" checked>
-				ascending
+		<section class="assets" ng-controller="GalleryController">
+			<div class="sortingOptions">
+				<h4>Sorting options:
+				<label class="formGroup">
+					<select ng-model="galleryOrder">
+						<option value="title">Title</option>
+						<option value="fileName">File Name</option>
+					</select>
 				</label>
-				<label class="formgroup">	
+				<label class="formGroup">
+					<input type="radio" ng-model="direction" name="direction" checked>
+					ascending
+				</label>
+				<label class="formGroup">	
 					<input type="radio" ng-model="direction" name="direction" value="reverse">
 					descending
 				</label> 
-			</div> -->
+				</h4>
+			</div>
 			<ul class="gallery">
-				<li ng-animate="'animate'" class="gallery cf" ng-repeat="item in gallery">
+				<li ng-animate="'animate'" class="gallery" ng-repeat="item in gallery | orderBy: galleryOrder:direction">
 					<img ng-src="images/{{ item.fileName }}" alt="Photo of {{ item.title }}">
 					<div class="galleryInfo">
 						<h2>{{ item.title }}</h2>
