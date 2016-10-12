@@ -78,11 +78,17 @@ html {
 }
 
 body {
-	font-family: 'Helvetica', san-serif;
+	font-family: 'Work Sans', san-serif;
+  font-weight: 500;
 	font-size: 1rem;
 	line-height: 160%;
   *zoom: 1;
 	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', san-serif;
+  font-weight: 700;
 }
 
 h4 {
@@ -98,7 +104,6 @@ h4 {
 /* Left Sidebar */
 .leftSidebar {
 	font-size: 13px;
-	font-weight: bold;
 	color: #e4e4e4;
 	position: absolute;
 	top: 0;
@@ -159,13 +164,13 @@ h4 {
 
 .topBanner h1 {
 	font-size: 60px;
-	font-weight: bold;
+  text-shadow: #000000 0 0 20px;
 	margin: 0 0 0 8px;
 }
 
 .topBanner h3 {
 	font-size: 18px;
-	font-weight: bold;
+  text-shadow: #000000 0 0 20px;
   padding: 80px 0 18px 8px;
 }
 
@@ -247,7 +252,6 @@ h4 {
 .galleryInfo h2 {
 	text-transform: capitalize;
 	font-size: 18px;
-	font-weight: bold;
 	margin: 0;
 	padding-top: 20px;
 	padding-bottom: 2px;
@@ -255,7 +259,6 @@ h4 {
 
 .galleryInfo h3 {
 	font-size: 14px;
-	font-weight: bold;
 	margin: 0;
 	padding-bottom: 20px;
 	border-bottom: 2px solid #bbb;
@@ -263,7 +266,6 @@ h4 {
 
 .galleryInfo p {
 	font-size: 12px;
-	font-weight: normal;
 	line-height: 24px;
 	color: #333;
   margin-top: 10px;

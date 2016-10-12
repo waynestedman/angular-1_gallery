@@ -7,7 +7,7 @@
 	{
 		"title": "Dragonfruit",
 		"fileName": "dragonfruit.jpg",
-		"description": "Wafer muffin cupcake icing liquorice. Jelly tootsie roll gummies gummi bears gingerbread lollipop toffee candy canes."
+		"description": "Wafer muffin cupcake icing liquorice. Jelly tootsie roll gummi bears  lollipop candy canes."
 	},
 	{
 		"title": "Secluded Cove",
@@ -32,7 +32,7 @@
 	{
 		"title": "Orchid and Bromeliad",
 		"fileName": "orchid.jpg",
-		"description": "Tiramisu wafer dragée muffin. Chupa chups sesame snaps ice cream tootsie roll jujubes wafer topping gummies cotton candy."
+		"description": "Tiramisu wafer dragée muffin. Sesame snaps ice cream tootsie roll jujubes wafer gummies cotton candy."
 	},
 	{
 		"title": "Tropical Sunset",
@@ -42,12 +42,12 @@
 	{
 		"title": "Toucan",
 		"fileName": "toucan.jpg",
-		"description": "Dragée sesame snaps jujubes macaroon cotton candy toffee. Pastry tart bonbon tiramisu jelly beans sweet roll chocolate bar."
+		"description": "Dragée macaroon cotton candy toffee. Pastry tart bonbon tiramisu jelly beans sweet roll chocolate bar."
 	},
 	{
 		"title": "Orchids on a wall",
 		"fileName": "wall_flower.jpg",
-		"description": " Pastry donut tootsie roll fruitcake pie  cotton candy apple pie. Lemon drops chocolate bar sesame snaps cotton candy."
+		"description": " Pastry donut pie cotton candy apple pie. Lemon drops chocolate bar sesame snaps cotton candy."
 	},
 	{
 		"title": "waterfall sorounded by purple flowers",
